@@ -9,7 +9,7 @@
 --Smith Hidayyah Oluwatoyin @ omowunmi_toyin@yahoo.com   Graphics Designer 
 
 # Problem
-Poor performance of students in mathematics have cause a lot of students to gain admission to university and unable to understand the logic of algorithm which make them to have phobia in programming...
+Poor performance of students in mathematics have caused a lot of students to gain admission to university and unable to understand the logic of algorithm which make them to have phobia in programming...
 
 # Proposed Solution 
  A platform( website / Android app) is created to assist the students to study at their own paced and a slack group in which individual school will have a channel to connect with their students easily and series of mathematics competition will be organised for all schools to participate, it also connect scholars, instructors/professionals,mentorship, counselling and  to organised a tutorial centres to students too for them either private or public.
