@@ -16,4 +16,4 @@ Poor performance of students in mathematics have cause a lot of students to gain
 # Proposed Stack
 Html5, CSS , Javascript,  Barcode, Slack , Github,
 
-# Benefits 
+# Benefits .
